@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tahirCagri\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tahirCagri\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TowerDefTut 22-10-20 SON HALİ.1149578907.00" t="ExcludeRecursive" />
+    <e p="C:\Users\tahirCagri\Desktop\Unity\Unity Projects\TowerDefTut 22-10-20 SON HALİ" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BuildManager.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="completeLevel.cs" t="Include" />
+          <e p="emtysceneloader.cs" t="Include" />
+          <e p="enemy.cs" t="Include" />
+          <e p="enemyMovement.cs" t="Include" />
+          <e p="gameManager.cs" t="Include" />
+          <e p="GameOver.cs" t="Include" />
+          <e p="levelSelector.cs" t="Include" />
+          <e p="lives.cs" t="Include" />
+          <e p="mainmenu.cs" t="Include" />
+          <e p="moneyUI.cs" t="Include" />
+          <e p="Node.cs" t="Include" />
+          <e p="NodeUI.cs" t="Include" />
+          <e p="pauseMenu.cs" t="Include" />
+          <e p="playerStats.cs" t="Include" />
+          <e p="raundsSurvived.cs" t="Include" />
+          <e p="sceneFader.cs" t="Include" />
+          <e p="shop.cs" t="Include" />
+          <e p="turret.cs" t="Include" />
+          <e p="turretBlueprint.cs" t="Include" />
+          <e p="wave.cs" t="Include" />
+          <e p="WaveSpawner.cs" t="Include" />
+          <e p="waypoints.cs" t="Include" />
+        </e>
+        <e p="ZPack" t="Include">
+          <e p="taşprefab" t="Include">
+            <e p="StoneMonster" t="Include">
+              <e p="Script" t="Include">
+                <e p="Animation_Test.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="TowerDefence_Vsquad" t="Include">
+            <e p="Materials" t="Include">
+              <e p="Scene" t="Include">
+                <e p="sky.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="TowerDefTut 22-10-20 SON HALİ.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
